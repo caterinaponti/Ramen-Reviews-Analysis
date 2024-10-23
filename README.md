@@ -1,4 +1,4 @@
-##CaseStudyRamen
+**CaseStudyRamen**
 
 Author: Caterina Ponti
 Date: 2024-09-16
@@ -14,8 +14,11 @@ The dataset used in this case study contains information about different ramen b
 **Libraries Used**
 
 `ggplot2`: For data visualization.
+
 `dplyr`: For data manipulation and grouping.
+
 `tidyr`: For data cleaning (handling NA values).
+
 `stringr`: For text processing and keyword matching.
 
 **How to Run the Project**
